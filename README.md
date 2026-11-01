@@ -1,5 +1,7 @@
 # AssignmentWriter
 
+###### I hope a STAR ⭐ from you 😊.
+
 A Python package and command line tool that writes your text on a sheet of paper, in a handwriting font and ink colour of your choice. Pick a paper, a font and an ink, and get back an image of the page(s) (in form of pdf too) - all in a few lines of code.
 
 [![Version](https://img.shields.io/badge/Version-0.1.0-red)](https://pypi.org/project/assignmentwriter/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TheHritu/AssignmentWriter/blob/main/LICENSE)
