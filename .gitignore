@@ -227,6 +227,14 @@ assignment.png
 assignment.pdf
 make_previews.py
 essay.txt
+realism_out/
+pen_out/
+ink_out/
+handwriting_out/
+pen_test.py
+ink_test.py
+realism_test.py
+handwriting_test.py
 page.png
 /tests
 zip.py

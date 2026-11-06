@@ -6,6 +6,15 @@ A Python package and command line tool that writes your text on a sheet of paper
 
 [![Version](https://img.shields.io/badge/Version-0.1.0-red)](https://pypi.org/project/assignmentwriter/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TheHritu/AssignmentWriter/blob/main/LICENSE)
 
+## TODO List
+
+- [ ] Make it look more realistic by making the handwriting inconsistent (already working on it).
+- [ ] Add more stroke styles and pen/ink types (already working on it).
+- [ ] Make it look more scuffed.
+- [ ] Add an option to use custom fonts.
+- [ ] Add a feature to tilt the page at different angles.
+- [ ] Add custom backgrounds for images.
+
 ## Installation
 
 ```
